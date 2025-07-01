@@ -1,0 +1,23 @@
+h1{
+    border: 3px solid blue;
+    background-color: gray; color: red;
+    text-shadow: 5px 7px gray;
+    text-shadow: 5px 7px green;
+
+    
+    
+}
+p{
+    border-top: dashed red;
+    border-right: double green;
+    border-bottom: dotted cyan;
+    border-left:solid orange;
+    
+    background-image: url(https://images-eu.ssl-images-amazon.com/images/I/71JNCPV1KqL._AC_UL600_SR600,600_.jpg);
+    color: blue; font-size: 25px; text-align: justify; letter-spacing: 3px; word word-spacing: 6px
+    ; 
+
+    
+
+
+}
